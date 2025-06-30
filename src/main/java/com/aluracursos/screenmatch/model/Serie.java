@@ -37,14 +37,14 @@ public class Serie {
 
     @Override
     public String toString() {
-        return  "genero=" + genero +
-                "titulo='" + titulo + '\'' +
-                ", totalTemporadas=" + totalTemporadas +
-                ", evaluacion=" + evaluacion +
-                ", poster='" + poster + '\'' +
-                ", actores='" + actores + '\'' +
-                ", sinopsis='" + sinopsis + '\'' +
-                ", episodios='" + episodios + '\'';
+        return  " genero= " + genero +
+                " titulo= '" + titulo + '\'' +
+                ", totalTemporadas= " + totalTemporadas +
+                ", evaluacion= " + evaluacion +
+                ", poster= '" + poster + '\'' +
+                ", actores= '" + actores + '\'' +
+                ", sinopsis= '" + sinopsis + '\'' +
+                ", episodios= '" + episodios + '\'';
 
     }
 
